@@ -45,8 +45,8 @@ dependencies:
     specifier: ^4.0.0
     version: 4.0.0
   formidable:
-    specifier: ^2.0.1
-    version: 2.0.1
+    specifier: ^3.2.4
+    version: 3.2.4
   install:
     specifier: ^0.13.0
     version: 0.13.0
@@ -7896,13 +7896,12 @@ packages:
       fetch-blob: 3.2.0
     dev: false
 
-  /formidable@2.0.1:
-    resolution: {integrity: sha512-rjTMNbp2BpfQShhFbR3Ruk3qk2y9jKpvMW78nJgx8QKtxjDVrwbZG+wvDOmVbifHyOUOQJXxqEy6r0faRrPzTQ==}
+  /formidable@3.2.4:
+    resolution: {integrity: sha512-8/5nJsq+o2o1+Dryx1k5gLTDaw0dNE9kL4P3srKArO6zhoerGm42/R8zq+L5EkV7kckNTvJpJke0kI8JseL3RQ==}
     dependencies:
       dezalgo: 1.0.3
       hexoid: 1.0.0
       once: 1.4.0
-      qs: 6.9.3
     dev: false
 
   /forwarded@0.2.0:
@@ -10858,11 +10857,6 @@ packages:
     dependencies:
       side-channel: 1.0.4
     dev: true
-
-  /qs@6.9.3:
-    resolution: {integrity: sha512-EbZYNarm6138UKKq46tdx08Yo/q9ZhFoAXAI1meAFd2GtbRDhbZY2WQSICskT0c5q99aFzLG1D4nvTk9tqfXIw==}
-    engines: {node: '>=0.6'}
-    dev: false
 
   /querystring-es3@0.2.1:
     resolution: {integrity: sha512-773xhDQnZBMFobEiztv8LIl70ch5MSF/jUQVlhwFyBILqq96anmoctVIYz+ZRp0qbCKATTn6ev02M3r7Ga5vqA==}
