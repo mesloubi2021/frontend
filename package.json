@@ -28,7 +28,7 @@
     "@sentry/nextjs": "^7.77.0",
     "dayjs": "^1.11.5",
     "form-data": "^4.0.0",
-    "formidable": "^2.0.1",
+    "formidable": "^3.2.4",
     "install": "^0.13.0",
     "md5": "^2.3.0",
     "multiparty": "^4.2.3",
